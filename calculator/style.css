@@ -20,6 +20,20 @@ body {
     border-collapse: separate;
     border-spacing: 10px;
   }
+.redirect-button {
+  margin-bottom: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4CAF50; /* Green */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.redirect-button:hover {
+  background-color: #45a049;
+}
   input[type="text"] {
     font-size: 2rem;
     width: 100%;
